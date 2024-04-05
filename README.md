@@ -1,3 +1,5 @@
+# Descrizione sintetica di quanto implementato per il modello DIB 
+
 Questo script implementa un metodo numerico per esplorare il comportamento del modello DIB nel tempo e nello spazio.
 
 Inizialmente, vengono definiti un set di parametri (denominato 'par') e due funzioni (F1 e F2) che descrivono le equazioni di Turing specifiche per la dinamica del modello DIB.
